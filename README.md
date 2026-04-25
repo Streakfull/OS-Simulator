@@ -84,6 +84,3 @@ Pasta,40,5
 
 Format: `Name, Temperature, Time`
 
-## Authors
-
-- **Philip Mouris**
